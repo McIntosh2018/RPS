@@ -22,5 +22,5 @@ namespace Rock_Paper_Scissors
         else
             return true;
         }
-    }
+    }   
 }
